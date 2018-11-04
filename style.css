@@ -1,0 +1,35 @@
+body{
+  background: #c4c8ce
+}
+h2
+{
+  padding-left: 45%;
+  padding-top:30px;
+}
+#excel{
+  padding-left: 40%;
+  padding-right: 40%;
+}
+#mail{
+padding-right: 40%;
+padding-top: 10%;
+
+}
+#btn{
+  border-color: green;
+}
+
+#frm{
+  border: solid gary 1px;
+  width: 20%;
+  border-radius: 5px;
+  margin: 100px auto;
+  background:white;
+  padding:50px;
+}
+#btn{
+  color:#fff;
+  background: #337ab7;
+  padding:5px;
+  margin-left: 69%;
+}

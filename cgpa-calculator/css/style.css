@@ -1,0 +1,29 @@
+body{
+  background-color:#444444;
+  color:#999999;
+}
+h1{
+  margin-top:6%;
+}
+form{
+  margin-top:2%;
+}
+input{
+  margin-top:1%;
+  margin-left:1%;
+  margin-right:1%;
+  width:9em;
+  color:black;
+}
+button{
+  margin-top:2%;
+  color:#000000;
+}
+#other{
+  //margin-left:1%;
+}
+#result{
+  color:#eaeaea;
+  margin-top:2%;
+  font-size:1.5em;
+}
